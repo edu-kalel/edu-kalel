@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Mendoza</h1>
 <h3 align="center">A computer science student eager to work!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edu-kalel" alt="edu-kalel" /></a> </p>
-
 - 🌱 I’m currently learning **Unity, Kotlin and Spring Boot!**
 
 - 📫 How to reach me **emendozag1602@gmail.com**
